@@ -1,0 +1,9 @@
+SR. NO	FDD VERSION	FDD SECTION	MODULE	QUERY	OFFSHORE COMMENT	ONSHORE COMMENT	REPORTED BY	REPORTED DATE	RESPONDED DATE	ASSIGNED TO	STATUS
+1	1.1	1.0.1	PBA	What is the max no. of ContactList ?			Jagadeep	25-06-2020		Ashok	Open
+2	1.1	1.0.1	PBA	How many characters we need to Consider for the Username?			Jagadeep	25-06-2020		Ashok	Open
+3	1.1	1.0.1	PBA	What is the min and max length for Email?			Jagadeep	25-06-2020		Ashok	Open
+4	1.1	1.0.1	PBA	What should display for success message and in which color is should display?			Jagadeep	25-06-2020		Ashok	Open
+5	1.1	1.0.1	PBA	What should display for error  message and in which color is should display?			Jagadeep	25-06-2020		Ashok	Open
+6	1.1	1.0.1	PBA	While displaying all the contacts can we go for pagination?			Jagadeep	25-06-2020		Ashok	Open
+7	1.1	1.0.1	PBA	Should we go for both client and server side validation?			Jagadeep	25-06-2020		Ashok	Open
+8	1.1	1.0.1	PBA	"Can we display a warning pop-up window,if contact list reaches to max limit"			Jagadeep	25-06-2020		Ashok	Open
